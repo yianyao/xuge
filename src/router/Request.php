@@ -1,8 +1,8 @@
 <?php
 
-namespace xuge;
+namespace xuge\router;
 
 class Request
 {
-    
+
 }

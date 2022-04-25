@@ -1,6 +1,6 @@
 <?php
 
-namespace xuge;
+namespace xuge\common;
 
 class Test
 {
